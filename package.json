@@ -1,0 +1,16 @@
+{
+  "name": "quinntian-nodejs-demo",
+  "version": "0.0.1",
+  "description": "描述文件",
+  "main": "entry.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "null"
+  },
+  "author": "",
+  "license": "ISC"
+}
